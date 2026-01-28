@@ -1,0 +1,5 @@
+{
+  "name": "InvoiceFlow",
+  "description": "A comprehensive invoice management system with multi-user authentication, role-based access control, and automated processing.",
+  "requestFramePermissions": []
+}
